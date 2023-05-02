@@ -67,7 +67,7 @@ def exibir_ranking(contagem):
 
 ----
 
-### Atividade 04 - Permita ao usuário saber qual palavra que ele deseja e quantas aparições.
+### Atividade 04 - Permita ao usuário saber qual palavra que ele deseja e quantas aparições
 
 A função 'escolher_palavras' recebe uma string texto como entrada. Em seguida, o usuário é solicitado a inserir uma palavra que deseja procurar no texto. Depois disso, exibe o número de ocorrências para cada palavra encontrada no texto.
 ```
@@ -85,7 +85,7 @@ def escolher_palavras(texto):
 
 ----
 
-### Atividade 06 - Mostre um menu para as escolhas acima e use o 0 para encerrar a aplicação.
+### Atividade 06 - Mostre um menu para as escolhas acima e use o 0 para encerrar a aplicação
 
 A função 'exibir_menu' mostra um menu para o usuário escolher qual opção deseja realizar.
 ```
@@ -149,7 +149,7 @@ elif opcao == '3':
 
 ----
 
-### Atvidade 05 - Exibir a palavra com mais aparição e a palavra com menos aparição.
+### Atvidade 05 - Exibir a palavra com mais aparição e a palavra com menos aparição
 
 Quando a opção 4 é selecionada, ele calcula a contagem de palavras no texto e classifica as palavras em ordem decrescente de aparição. Em seguida, exibe a palavra com mais aparições e o número de vezes que ela aparece.
 Quando a opção 5 é selecionada, ele faz a mesma coisa, mas classifica as palavras em ordem crescente de aparição e exibe a palavra com menos aparições e o número de vezes que ela aparece.
